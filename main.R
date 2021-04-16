@@ -1,6 +1,6 @@
 # import Excel file from drive
 library(readxl)
-newdata <- read_excel("G:/My Drive/Course materials/ST511/Project/ST511_project data.xlsx")
+newdata <- read_excel("student_data.xlsx")
 head(newdata)
 
 # Some packages
